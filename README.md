@@ -18,7 +18,7 @@ The GNNs trained on the corresponding feasible data are contained in each of the
 
 ## License
 
-This material is licensed under the MIT license and is free and provided as-is.
+This material is licensed under the [MIT license](https://github.com/edgarsmdn/GNN_IAC/blob/main/LICENSE) and is free and provided as-is.
 
 ## Link
 https://github.com/edgarsmdn/GNN_IAC
