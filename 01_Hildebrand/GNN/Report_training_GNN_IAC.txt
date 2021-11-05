@@ -1,0 +1,402 @@
+
+ Report for GNN_IAC
+--------------------------------------------------
+Total points       : 1536
+Train total points : 1228
+Test points        : 308
+
+GNN datasets size
+----------------------------------------
+Train      : 1105
+Validation : 123
+Test       : 308
+
+
+Ensemble model 1
+------------------------------
+Best epoch     : 44
+Training MAE   : 0.18561694
+Validation MAE : 0.25279132
+Test MAE       : 0.23878816
+Training R2    : 0.9625066518331524
+Validation R2  : 0.925928618754229
+Test R2        : 0.9008283665278736
+
+Training time (min): 9.739938803513844
+
+
+Ensemble model 2
+------------------------------
+Best epoch     : 178
+Training MAE   : 0.15256715
+Validation MAE : 0.18397097
+Test MAE       : 0.20047158
+Training R2    : 0.9758822175026257
+Validation R2  : 0.9218691589288861
+Test R2        : 0.9121930705790094
+
+Training time (min): 8.670604944229126
+
+
+Ensemble model 3
+------------------------------
+Best epoch     : 182
+Training MAE   : 0.1494485
+Validation MAE : 0.21267658
+Test MAE       : 0.21666306
+Training R2    : 0.9730313063023626
+Validation R2  : 0.9506216223321604
+Test R2        : 0.8926504862719116
+
+Training time (min): 8.444894830385843
+
+
+Ensemble model 4
+------------------------------
+Best epoch     : 112
+Training MAE   : 0.14047083
+Validation MAE : 0.20584668
+Test MAE       : 0.1812966
+Training R2    : 0.9780288622051896
+Validation R2  : 0.9569566375562817
+Test R2        : 0.9313686776100892
+
+Training time (min): 8.547873051961263
+
+
+Ensemble model 5
+------------------------------
+Best epoch     : 165
+Training MAE   : 0.14654607
+Validation MAE : 0.18890221
+Test MAE       : 0.20996805
+Training R2    : 0.9754256999755625
+Validation R2  : 0.9569397582459438
+Test R2        : 0.9103948344725508
+
+Training time (min): 8.683723684151968
+
+
+Ensemble model 6
+------------------------------
+Best epoch     : 98
+Training MAE   : 0.14339823
+Validation MAE : 0.18638918
+Test MAE       : 0.20169349
+Training R2    : 0.9763844246014552
+Validation R2  : 0.9637365772829984
+Test R2        : 0.9113749717584987
+
+Training time (min): 8.484152328968047
+
+
+Ensemble model 7
+------------------------------
+Best epoch     : 117
+Training MAE   : 0.16004826
+Validation MAE : 0.2644814
+Test MAE       : 0.22296183
+Training R2    : 0.9708226891845105
+Validation R2  : 0.896668609804319
+Test R2        : 0.902545106740311
+
+Training time (min): 8.485546139876048
+
+
+Ensemble model 8
+------------------------------
+Best epoch     : 144
+Training MAE   : 0.15115137
+Validation MAE : 0.20287363
+Test MAE       : 0.2050908
+Training R2    : 0.9705250664159806
+Validation R2  : 0.9501114776026596
+Test R2        : 0.913411906454289
+
+Training time (min): 8.5193922996521
+
+
+Ensemble model 9
+------------------------------
+Best epoch     : 182
+Training MAE   : 0.13482271
+Validation MAE : 0.20133588
+Test MAE       : 0.19236262
+Training R2    : 0.9760051030127873
+Validation R2  : 0.9531000545186111
+Test R2        : 0.9192464245883668
+
+Training time (min): 8.55095222791036
+
+
+Ensemble model 10
+------------------------------
+Best epoch     : 172
+Training MAE   : 0.13006815
+Validation MAE : 0.22011943
+Test MAE       : 0.19921145
+Training R2    : 0.9799236589487471
+Validation R2  : 0.9243906570616971
+Test R2        : 0.9154904412644925
+
+Training time (min): 8.537976372241975
+
+
+Ensemble model 11
+------------------------------
+Best epoch     : 190
+Training MAE   : 0.15127666
+Validation MAE : 0.22449705
+Test MAE       : 0.21425901
+Training R2    : 0.9734921771873409
+Validation R2  : 0.9253886630503081
+Test R2        : 0.914930531326989
+
+Training time (min): 8.553429182370504
+
+
+Ensemble model 12
+------------------------------
+Best epoch     : 197
+Training MAE   : 0.13829812
+Validation MAE : 0.19402923
+Test MAE       : 0.18703742
+Training R2    : 0.9780576542121515
+Validation R2  : 0.9533789339199535
+Test R2        : 0.9255794009677902
+
+Training time (min): 8.536825275421142
+
+
+Ensemble model 13
+------------------------------
+Best epoch     : 198
+Training MAE   : 0.14825659
+Validation MAE : 0.23724951
+Test MAE       : 0.21131915
+Training R2    : 0.9765907950727454
+Validation R2  : 0.9289295851252526
+Test R2        : 0.9083861372670315
+
+Training time (min): 8.592714965343475
+
+
+Ensemble model 14
+------------------------------
+Best epoch     : 164
+Training MAE   : 0.15661164
+Validation MAE : 0.22055252
+Test MAE       : 0.2036751
+Training R2    : 0.972661415922522
+Validation R2  : 0.9353929012399915
+Test R2        : 0.9101608333802997
+
+Training time (min): 8.31095520655314
+
+
+Ensemble model 15
+------------------------------
+Best epoch     : 129
+Training MAE   : 0.1399286
+Validation MAE : 0.17592591
+Test MAE       : 0.20926502
+Training R2    : 0.9760860189015934
+Validation R2  : 0.9698520558435014
+Test R2        : 0.9105234861334812
+
+Training time (min): 8.548443531990051
+
+
+Ensemble model 16
+------------------------------
+Best epoch     : 146
+Training MAE   : 0.1489355
+Validation MAE : 0.20625909
+Test MAE       : 0.20943297
+Training R2    : 0.9752716528616501
+Validation R2  : 0.9450717141439686
+Test R2        : 0.9118426836130268
+
+Training time (min): 8.56192070643107
+
+
+Ensemble model 17
+------------------------------
+Best epoch     : 98
+Training MAE   : 0.15295057
+Validation MAE : 0.1922485
+Test MAE       : 0.20213655
+Training R2    : 0.9734839070571426
+Validation R2  : 0.965029340530073
+Test R2        : 0.911758968267506
+
+Training time (min): 8.480285473664601
+
+
+Ensemble model 18
+------------------------------
+Best epoch     : 162
+Training MAE   : 0.1422753
+Validation MAE : 0.20317093
+Test MAE       : 0.21485002
+Training R2    : 0.977172555679886
+Validation R2  : 0.9542117227928073
+Test R2        : 0.9085442130710555
+
+Training time (min): 8.52367049853007
+
+
+Ensemble model 19
+------------------------------
+Best epoch     : 146
+Training MAE   : 0.13389793
+Validation MAE : 0.22138709
+Test MAE       : 0.20018332
+Training R2    : 0.9789104959622217
+Validation R2  : 0.9215321998115339
+Test R2        : 0.9166336614937945
+
+Training time (min): 8.368630305926006
+
+
+Ensemble model 20
+------------------------------
+Best epoch     : 160
+Training MAE   : 0.14157115
+Validation MAE : 0.2540043
+Test MAE       : 0.2048572
+Training R2    : 0.9807342542413569
+Validation R2  : 0.8507021437160271
+Test R2        : 0.9144919489860338
+
+Training time (min): 8.49482614994049
+
+
+Ensemble model 21
+------------------------------
+Best epoch     : 116
+Training MAE   : 0.14702517
+Validation MAE : 0.18815686
+Test MAE       : 0.21363427
+Training R2    : 0.9738501367779151
+Validation R2  : 0.9661666588841272
+Test R2        : 0.9034707149224975
+
+Training time (min): 8.735001448790232
+
+
+Ensemble model 22
+------------------------------
+Best epoch     : 119
+Training MAE   : 0.14985086
+Validation MAE : 0.21280465
+Test MAE       : 0.21883848
+Training R2    : 0.9750627907488512
+Validation R2  : 0.9354197364558562
+Test R2        : 0.9028476768811442
+
+Training time (min): 8.578986239433288
+
+
+Ensemble model 23
+------------------------------
+Best epoch     : 129
+Training MAE   : 0.14095351
+Validation MAE : 0.1733014
+Test MAE       : 0.19673644
+Training R2    : 0.9765553228712264
+Validation R2  : 0.9711696158706529
+Test R2        : 0.9152650336198153
+
+Training time (min): 8.533556079864502
+
+
+Ensemble model 24
+------------------------------
+Best epoch     : 192
+Training MAE   : 0.1463988
+Validation MAE : 0.20612413
+Test MAE       : 0.19503504
+Training R2    : 0.9769405179523148
+Validation R2  : 0.9503907152646104
+Test R2        : 0.9170771177802525
+
+Training time (min): 8.57884289820989
+
+
+Ensemble model 25
+------------------------------
+Best epoch     : 179
+Training MAE   : 0.15160537
+Validation MAE : 0.20581782
+Test MAE       : 0.20588838
+Training R2    : 0.9712559994222407
+Validation R2  : 0.9642185500049247
+Test R2        : 0.9140731849801326
+
+Training time (min): 8.57603924671809
+
+
+Ensemble model 26
+------------------------------
+Best epoch     : 113
+Training MAE   : 0.1425332
+Validation MAE : 0.26109576
+Test MAE       : 0.19539413
+Training R2    : 0.9700000578410752
+Validation R2  : 0.8647657878552499
+Test R2        : 0.9144262021988658
+
+Training time (min): 8.746389822165172
+
+
+Ensemble model 27
+------------------------------
+Best epoch     : 188
+Training MAE   : 0.1495738
+Validation MAE : 0.19673127
+Test MAE       : 0.20633295
+Training R2    : 0.9746790017810824
+Validation R2  : 0.9506773101803204
+Test R2        : 0.9153528999181061
+
+Training time (min): 8.69760568936666
+
+
+Ensemble model 28
+------------------------------
+Best epoch     : 72
+Training MAE   : 0.16871661
+Validation MAE : 0.20467037
+Test MAE       : 0.21662906
+Training R2    : 0.9721665400250399
+Validation R2  : 0.9643167459256261
+Test R2        : 0.9126463264090394
+
+Training time (min): 8.675192375977835
+
+
+Ensemble model 29
+------------------------------
+Best epoch     : 123
+Training MAE   : 0.13331002
+Validation MAE : 0.24437498
+Test MAE       : 0.19357581
+Training R2    : 0.981306055204502
+Validation R2  : 0.87039841850457
+Test R2        : 0.9179383793629122
+
+Training time (min): 8.50560820500056
+
+
+Ensemble model 30
+------------------------------
+Best epoch     : 131
+Training MAE   : 0.13999313
+Validation MAE : 0.2159227
+Test MAE       : 0.20732923
+Training R2    : 0.9803657226446671
+Validation R2  : 0.899393718956311
+Test R2        : 0.90622193418442
+
+Training time (min): 8.514223710695903
