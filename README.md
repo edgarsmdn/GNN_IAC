@@ -1,5 +1,7 @@
 # Graph Neural Networks for the prediction of infinite dilution activity coefficients
 
+[![DOI](https://zenodo.org/badge/406258262.svg)](https://zenodo.org/badge/latestdoi/406258262)
+
 <img src="https://github.com/edgarsmdn/GNN_IAC/blob/main/GNN_IAC_logo.png" width="300">
 
 ## Description
@@ -15,6 +17,13 @@ The folder `GNN_whole_dataset` containes the training routines and trained GNNs 
 ### Hybrid models
 
 The GNNs trained on the corresponding feasible data are contained in each of the `0#_Name_of_model` folders. There, you can also find the GNNs trained on the corresponding residuals. The training routines are also included. For each case, a report with the prediction statistics is also given.
+
+## Requirements
+
+The following libraries need to be also installed:
+* [PyTorch](https://pytorch.org/) >= 1.8.0
+* [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) >= 2.0
+* [RDKiT](https://www.rdkit.org/docs/index.html) >= 2021.03.1
 
 ## License
 
