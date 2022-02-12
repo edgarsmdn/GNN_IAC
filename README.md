@@ -6,9 +6,20 @@
 
 ## Description
 
-This repository contains the training routines and the experiments presented in the paper Graph Neural Networks for the prediction of infinite dilution activity coefficients.
+This repository contains the training routines and the experiments presented in the paper [Graph Neural Networks for the prediction of infinite dilution activity coefficients](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00037c#!divAbstract).
 
-The .bib entry and the link to the paper will be inlcuded once it gets published.
+To cite this work:
+
+```
+@Article{D1DD00037C,
+author ="Sanchez Medina, Edgar Ivan and Linke, Steffen and Stoll, Martin and Sundmacher, Kai",
+title  ="Graph Neural Networks for the prediction of infinite dilution activity coefficients",
+journal  ="Digital Discovery",
+year  ="2022",
+pages  ="-",
+publisher  ="RSC",
+doi  ="10.1039/D1DD00037C"}
+```
 
 ### GNN_IAC
 
