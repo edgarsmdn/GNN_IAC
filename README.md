@@ -13,12 +13,16 @@ To cite this work:
 ```
 @Article{D1DD00037C,
 author ="Sanchez Medina, Edgar Ivan and Linke, Steffen and Stoll, Martin and Sundmacher, Kai",
-title  ="Graph Neural Networks for the prediction of infinite dilution activity coefficients",
+title  ="Graph neural networks for the prediction of infinite dilution activity coefficients",
 journal  ="Digital Discovery",
 year  ="2022",
-pages  ="-",
+volume  ="1",
+issue  ="3",
+pages  ="216-225",
 publisher  ="RSC",
-doi  ="10.1039/D1DD00037C"}
+doi  ="10.1039/D1DD00037C",
+url  ="http://dx.doi.org/10.1039/D1DD00037C"}
+
 ```
 
 ### GNN_IAC
