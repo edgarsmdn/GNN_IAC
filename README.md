@@ -33,6 +33,15 @@ The folder `GNN_whole_dataset` containes the training routines and trained GNNs 
 
 The GNNs trained on the corresponding feasible data are contained in each of the `0#_Name_of_model` folders. There, you can also find the GNNs trained on the corresponding residuals. The training routines are also included. For each case, a report with the prediction statistics is also given.
 
+## Important Notice! ⚠️
+
+Our original work makes use of a dataset originally retrieved and published by [Brouwer et al. (2019)](https://doi.org/10.1021/acs.iecr.9b00727). On April 2023, [a correction](https://doi.org/10.1021/acs.iecr.3c00757) was published on this same dataset noticing that out of the 5194 data points in the original dataset 24 entries contained errors. In 18 of them
+iodomethane was incorrectly used instead of diiodomethane. The other 6 contained a typo of incorrect placement of the decimal point in the experimental value of the infinite dilution activity coefficient.
+
+We have re-run our computational experiments and analysis to observe the impact of this correction in our original work. Overall, the correction have led to minor implications on the models accuracy and coverage percentage. The accuracy of the GNN-based models was in general slightly improved. Moreover, the original analysis, general conclusions and findings remain the same.
+
+You can see the impact report [here](https://github.com/edgarsmdn/GNN_IAC/blob/main/Correction_notice.pdf).
+
 ## Requirements
 
 The following libraries need to be also installed:
